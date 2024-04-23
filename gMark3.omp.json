@@ -35,7 +35,10 @@
           "style": "plain",
           "foreground": "#ffc558",
           "properties": {
-            "style": "agnoster_full"
+            "folder_icon": "\uf115",
+            "folder_separator_icon": " \u2771 ",
+            "home_icon": "\ueb06",
+            "style": "agnoster"
           },
           "template": "<b>{{ .Path }}</b> <p:light-sky-blue>\u26a1</>"
         },
